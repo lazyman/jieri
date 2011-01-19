@@ -6,8 +6,7 @@ var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
 var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
 var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
 
-document.writeln("<script type=\"text/javascript\" >BAIDU_CLB_SLOT_ID = \"98555\";</script>");
-document.writeln("<script type=\"text/javascript\" src=\"http://cbjs.baidu.com/js/o.js\"></script>");
+
 function ControlVersion()
 {
 	var version;
