@@ -1,0 +1,187 @@
+body
+{
+padding:0;
+margin:0;
+font-family: "宋体";
+font-size: 12px;
+background-image:url(image/bggg.gif);
+}
+.mid
+{
+width:950px;
+margin:0 auto;
+background:#881906;
+}
+h1
+{
+font-size:23px;
+color:#fff;}
+.bj1
+{
+background:url(image/2010cjb1.jpg) no-repeat;
+height:270px;}
+.bj2
+{
+background:url(image/2010cjb2.jpg) no-repeat;
+height:305px;
+}
+.flashm
+{
+margin:25px 0 0;}
+.flashm2
+{
+margin:100px 0 0;}
+.bj2 p,.bj3 p,.bj4 p,.bj5 p,.bj6 p,.bj13 p
+{
+font-size:16px;
+line-height:160%;
+text-indent:2em;
+font-weight:700;}
+.bj2p
+{
+width:320px;}
+.bj3
+{
+background:url(image/2010cjb3.jpg) no-repeat;
+height:392px;}
+.bj3 p,.bj4 p,.bj5 p,.bj6 p,.bj13 p
+{
+padding:15px 260px 5px 120px;
+color:#fff;}
+.bj4,.bj5,.bj6
+{
+background:url(image/2010cjb4.jpg) no-repeat;
+height:392px;}
+.bj4 p
+{
+padding:15px 45px 0 430px;}
+.bj5
+{
+background:url(image/2010cjb5.jpg);
+}
+.bj5 p
+{
+padding:20px 280px 0 180px;}
+.bj6
+{
+background:url(image/2010cjb6.jpg);
+}
+.bj6 p
+{
+padding:20px 45px 0 380px;
+text-indent:0;}
+.bj13
+{
+background:url(image/2010cjb8.jpg);
+}
+.bj13 p
+{
+padding:20px 420px 0 80px;
+text-indent:0;}
+.cofff
+{
+color:#fff;}
+.bj7
+{
+background:url(image/2010cjb7.jpg) no-repeat;
+height:200px;
+text-align:center;}
+.bj7 h1
+{
+padding:18px 0 0;
+text-align:center;
+width:950px;}
+.bj7 ul
+{
+width:760px;
+padding:100px 0 0;}
+.bj7 li
+{
+float:left;
+padding:0 8px;
+border-right:solid 1px #fff;
+height:14px;
+font-size:14px;
+font-weight:700;
+display:inline;}
+.bj7 li a:link,.bj7 li a:visited
+{
+color:#fff;}
+.ztl
+{
+float:left;
+width:300px;
+margin:10px 0 10px 8px;
+line-height:180%;
+padding:5px 0 5px 6px;
+}
+*HTML .ztl
+{
+float:left;
+width:300px;
+margin:10px 0 10px 8px;
+line-height:180%;
+padding:5px 0 5px 4px;
+}
+*HTML .ztl
+{
+margin:10px 0 10px 5px;
+width:298px;}
+.ztl li
+{
+width:145px;
+float:left;
+margin:0 5px 0 0;}
+*HTML .ztl li
+{
+width:144px;
+}
+.bj9
+{
+background:#EFD;}
+.bj10
+{
+background:#FDE8FB;}
+.bj11
+{
+background:#FFFFD9;}
+.ztl a:link,.ztl a:visited
+{
+color:#333;
+}
+.ztl a:hover
+{
+color:#f60;}
+#foot{margin-top:5px;border-top:2px solid #fff;padding-top:6px;text-align:center;line-height:180%; color:#fff;}
+*html #foot {padding-top:10px;}#foot a,#foot a:visited{color:#fff;}
+.bj0
+{
+background:url(image/2010bjt.jpg) no-repeat;
+height:100px;
+margin:0 0 1px;}
+.bj0 ul
+{
+width:770px;
+padding:75px 0 0 20px;
+color:#fff;}
+.bj0 li
+{
+float:left;
+padding:0 10px;
+display:inline;
+border-right:solid 1px #fff;
+height:14px;}
+.bj0 ul a:link,.bj0 ul a:visited,.bj0 ul a:hover
+{
+color:#fff;
+text-decoration:none;
+font-size:13px;
+font-weight:700;}
+.bj0 ul a:hover
+{
+text-decoration:underline;}
+.bj12
+{
+background:url(image/2010bj12.jpg) no-repeat;
+height:135px;
+text-align:right;}
